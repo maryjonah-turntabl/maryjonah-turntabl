@@ -1,6 +1,9 @@
 ### Hi there, I am Mary Jonah 👋
 Currently, a Junior Software Engineer at [turntabl](https://turntabl.io/)
 
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl)](https://github.com/maryjonah-turntabl/github-readme-stats)
+
+
 <!--
 **maryjonah-turntabl/maryjonah-turntabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
