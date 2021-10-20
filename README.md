@@ -1,5 +1,6 @@
 ### Hi there, I am Mary Jonah 👋
 :office: Junior Software Engineer at [turntabl](https://turntabl.io/)
+
 🌱 currently learning PostgreSQL
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats)
