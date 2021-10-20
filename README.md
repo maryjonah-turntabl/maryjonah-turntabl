@@ -1,7 +1,8 @@
 ### Hi there, I am Mary Jonah 👋
 Currently, a Junior Software Engineer at [turntabl](https://turntabl.io/)
 
-[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl)](https://github.com/maryjonah-turntabl/github-readme-stats)
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats)
+
 
 
 <!--
