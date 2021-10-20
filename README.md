@@ -1,11 +1,9 @@
 ### Hi there, I am Mary Jonah 👋
 :office: Junior Software Engineer at [turntabl](https://turntabl.io/)
+🌱 currently learning PostgreSQL
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats)
 
-This README file will reflect on what I am currently working on
-
-🌱 currently learning PostgreSQL
 
 <!--
 **maryjonah-turntabl/maryjonah-turntabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
