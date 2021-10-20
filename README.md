@@ -3,7 +3,8 @@ Currently, a Junior Software Engineer at [turntabl](https://turntabl.io/)
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats)
 
-
+This README file will reflect on what I am currently working on
+🌱 currently learning ![PostgreSQL Logo](https://icon2.cleanpng.com/20180315/ifq/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1a38cf4.7370214515211005136699.jpg)
 
 <!--
 **maryjonah-turntabl/maryjonah-turntabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
