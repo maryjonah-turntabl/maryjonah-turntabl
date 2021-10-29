@@ -11,6 +11,7 @@ Outside of work, my hobby (yes I have 1) is 😴. I would like to ✈️ to visi
 #### Labs for TLC
 - ##### Week 7 (25th - 29th Oct) = 🐍 + 📉 
     - Python Day 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2002%20Labs%20-%20Python)**
+    - Python Day 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2003%20Labs%20-%20Python)**
     - Machine Learning Day 1 -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2001%20Labs%20-%20Machine%20Learning)**
     - Machine Learning Day 2 -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2002%20Labs%20-%20Machine%20Learning)**
 
