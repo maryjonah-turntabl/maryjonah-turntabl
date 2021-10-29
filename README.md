@@ -1,6 +1,7 @@
 ### Hi, Mary :sunglasses: 👋
 
-I am Mary Jonah, a Junior Software Developer 💻 with [turntabl](https://turntabl.io/) 🏢. Outside of work, my hobby (yes I have 1) is 😴. I would like to ✈️ to visit other places in the world, but now I need to make the 💵 😜
+I am Mary Jonah, a Junior Software Developer 💻 with [turntabl](https://turntabl.io/) 🏢. 
+Outside of work, my hobby (yes I have 1) is 😴. I would like to ✈️ to visit other places in the world, but now I need to make the 💵 😜
 
 🌱 currently learning PostgreSQL
 
