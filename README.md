@@ -8,6 +8,10 @@ Outside of work, my hobby (yes I have 1) is 😴. I would like to ✈️ to visi
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats)
 
+#### Labs for TLC
+- ##### Week 7 (25th - 29th Oct) = 🐍 + 📉 
+    - Machine Learning Day 1 -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2001%20Labs%20-%20Machine%20Learning)**
+    - Machine Learning Day 2 -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2002%20Labs%20-%20Machine%20Learning)**
 
 <!--
 **maryjonah-turntabl/maryjonah-turntabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
