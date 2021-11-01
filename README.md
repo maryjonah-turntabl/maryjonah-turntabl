@@ -8,7 +8,7 @@ I would like to ✈️ to visit other places in the world, but now I need to mak
 
 🌱 currently revising Java (it really is 😧)
 
-[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats)
+<!-- [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats) -->
 
 #### Labs for TLC
 - ##### Week 7 (25th - 29th Oct) = 🐍 + 📉 
