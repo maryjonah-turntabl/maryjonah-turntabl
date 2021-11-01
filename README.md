@@ -6,7 +6,7 @@ Outside of work, my hobby (yes I have 1) is 😴.
 
 I would like to ✈️ to visit other places in the world, but now I need to make the 💵 😜
 
-🌱 currently learning PostgreSQL
+🌱 currently revising Java (it really is 😧)
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah-turntabl&hide=contribs,prs,stars,issues)](https://github.com/maryjonah-turntabl/github-readme-stats)
 
