@@ -17,6 +17,9 @@ I would like to ✈️ to visit other places in the world, but now I need to mak
     - Machine Learning Day 1 -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2001%20Labs%20-%20Machine%20Learning)**
     - Machine Learning Day 2 -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-7/Day%2002%20Labs%20-%20Machine%20Learning)**
 
+
+- ##### Week 79 (8th - 12th Nov)
+    - Scala Day 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-9/Day%2001%20Labs%20-%20Scala)**
 <!--
 **maryjonah-turntabl/maryjonah-turntabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
