@@ -20,7 +20,7 @@ I would like to ✈️ to visit other places in the world, but now I need to mak
 
 - ##### Week 9 (8th - 12th Nov)
     - Scala Day 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-9/Day%2001%20Labs%20-%20Scala)**
-    - Scala Day 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-9/Day%2004%20Labs%20-%20Scala)
+    - Scala Day 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> **[LINK](https://github.com/maryjonah-turntabl/TurnTabl-TLC-Labs/tree/main/Week-9/Day%2004%20Labs%20-%20Scala)**
 
 <!--
 **maryjonah-turntabl/maryjonah-turntabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
